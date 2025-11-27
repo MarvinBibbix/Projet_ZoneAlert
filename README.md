@@ -1,4 +1,4 @@
-# Project_ZoneAlert Wireless Space Surveillance & Alert System
+# ZoneAlert : Wireless Space Surveillance & Alert System
 ZoneAlert is a compact, low-cost, autonomous system designed to monitor an indoor zone (garage, workshop, technical room, etc.) and alert the user in case of intrusion or unexpected obstacle detection. The system performs periodic ultrasonic scanning, displays results in real time on a touchscreen, triggers a local alarm, and can notify the user remotely via push notification. The goal is to provide a simple, accessible, yet reliable surveillance solution that can be deployed in various domestic or technical settings
 
 ## Hardware Components
