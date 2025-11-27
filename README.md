@@ -16,6 +16,7 @@ Simple installation: USB power + Wi-Fi 2.4 GHz
 
 ### Repository Contents
 Codes_ZoneAlert/ : Full source code for ESP32 (sensor + servo) and M5TAB5 (UI + processing)
+
 Docs/ : Technical documents, drafts, diagrams, configuration files
 
 ## How to Build & Run
